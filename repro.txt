@@ -1,0 +1,1 @@
+To look at or summarize the repro, first step is always to make sure that Edge browser has DEVELOPER MODE enabled under manage extensions (you can also click the puzzle icon in the upper right corner).
