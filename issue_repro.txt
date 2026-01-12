@@ -1,0 +1,4 @@
+Om dit probleem te reproduceren, de eerste stap is altijd:
+
+- zorg ervoor dat de Edge browser de ONTWIKKEL MODUS heeft geactiveerd
+    ga naar extensies beheren (je kan ook op het puzzel icoontje klikken in de hoek rechts bovenaan)
